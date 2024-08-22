@@ -3,3 +3,7 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 osrf/ubuntu_arm64:focal
 osrf/debian_arm64:bullseye
+arm64v8/ubuntu:20.04
+arm64v8/debian:11.5
+
+
